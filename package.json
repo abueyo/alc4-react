@@ -1,6 +1,12 @@
 {
-  "name": "alc4-react",
-  "version": "0.1.0",
+  "name": "andela-cloud-challenge",
+  "version": "4.0.0",
+  "description": "ALC 4.0 Cloud Challenge",
+  "repository": {
+    "url":"https://github.com/abueyo/alc4-react.git"
+  },
+  "readme" : "README.md",
+  "license" : "MIT",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
